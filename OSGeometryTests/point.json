@@ -1,0 +1,13 @@
+{
+  "type": "Point",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::27700"
+    }
+  },
+  "coordinates": [
+    437265,
+    115324.36
+  ]
+}
